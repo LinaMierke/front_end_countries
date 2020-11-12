@@ -15,7 +15,7 @@
     "web-vitals": "^0.2.4"
     
   },
-  "homepage": "http://linamierke.github.io/front_end_countries",
+  "homepage": "http://linamierke.github.io/front_end_countries/public",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
