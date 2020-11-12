@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,WAEF,CACA,KACA,YAAa,CACX,WAAY,CACZ,WAAY,CACZ,qBAEF","file":"main.7ab1a41b.chunk.css","sourcesContent":[".app{\n  height: 100vh;\n  padding: opx;\n  /* background-color: brown; */\n}\n.box{\ndisplay: flex;\n  height: 30px;\n  width: 200px;\n  border: 1px solid black;\n  \n}"]}
