@@ -1,0 +1,12 @@
+.app{
+  height: 100vh;
+  padding: opx;
+  /* background-color: brown; */
+}
+.box{
+display: flex;
+  height: 30px;
+  width: 200px;
+  border: 1px solid black;
+  
+}
